@@ -1,1 +1,1 @@
-this is ths printf priject
+this is ths printf project
